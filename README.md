@@ -1,1 +1,1 @@
-# half_staff
+# Trying to build an application that pulls Flag Half Staff API data and creates visualization on a USA map
